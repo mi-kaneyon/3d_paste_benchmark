@@ -67,3 +67,6 @@ Approx. Polygons: 460800000
 Score (Polygons/s): 7680000.0
 
 ```
+# screen sample
+
+![Test Image 3](benchsample.png)
